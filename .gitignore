@@ -1,4 +1,4 @@
 /release/*
 node_modules
-/2408SE-win32-ia32/*
 .sass-cache/
+2048SE-win32-ia32/
