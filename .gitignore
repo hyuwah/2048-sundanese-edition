@@ -1,6 +1,7 @@
 .gitignore
 node_modules
+2408SE-win32-ia32
 .sass-cache/
 node_modules/
-2408SE-win32-ia32
+
 ./2408SE-win32-ia32/
