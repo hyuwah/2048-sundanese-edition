@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+/release/*
+node_modules
+.sass-cache/
+2048SE-win32-ia32/
+=======
 node_modules
 2048SE-win32-ia32
 .sass-cache/
 release
+>>>>>>> refs/remotes/origin/gh-pages
